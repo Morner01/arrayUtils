@@ -1,0 +1,30 @@
+{
+  "name": "arrayutils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrayUtils.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morner01/arrayUtils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morner01/arrayUtils/issues"
+  },
+  "homepage": "https://github.com/Morner01/arrayUtils#readme",
+  "dependencies": {
+    "fast-check": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
